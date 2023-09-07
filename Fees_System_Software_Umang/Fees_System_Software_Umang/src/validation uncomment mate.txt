@@ -1,0 +1,13 @@
+    private void txt_passwordKeyReleased(java.awt.event.KeyEvent evt) {                                         
+        // TODO add your handling code here:
+        checkPassword(); // Method Call
+    }                                        
+
+    private void txt_contactKeyReleased(java.awt.event.KeyEvent evt) {                                        
+        // TODO add your handling code here:
+        checkContactNo(); //Method Call
+    }                                       
+
+    private void txt_contactKeyPressed(java.awt.event.KeyEvent evt) {                                       
+        // TODO add your handling code here:
+        //checkContactNo(); //Method Call
